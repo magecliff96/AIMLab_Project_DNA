@@ -10,7 +10,7 @@ Our goal is to streamline onboarding and ensure knowledge continuity within the 
 
 ---
 
-# Directory:
+# 目录 (Directory):
 
 ### AIMLAB详事:  
 - 实验室和政大课程的详事  
