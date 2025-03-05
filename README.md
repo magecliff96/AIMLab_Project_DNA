@@ -1,10 +1,7 @@
 # AIMLab心录 (AIMLab DNA)
 ### 简介: 
 本项目为了建立一个全面的 “AIMLab DNA”，会记录核心指南，工作流程，资源，心得。目标是优化入职流程，并确保实验室的知识和经验每届得以传承。
-
-This project aims to create a comprehensive "AIMLab DNA", serving as a central hub for essential guidelines, workflows, and resources.
-
-Our goal is to streamline onboarding and ensure knowledge continuity within the lab.
+This project aims to create a comprehensive "AIMLab DNA", serving as a central hub for essential guidelines, workflows, and resources. Our goal is to streamline onboarding and ensure knowledge continuity within the lab.
 
 ---
 
