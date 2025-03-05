@@ -1,5 +1,5 @@
 ---
-title: Lab Info
+title: Lab & Class Info
 
 ---
 (last update: 20240903 by 聖安)
