@@ -18,7 +18,10 @@ This project aims to create a comprehensive "AIMLab DNA", serving as a central h
 - 报告自己研究时的注意事项，流程，心得，等等  
 
 ### 编写论文指南：  
-- 如何编写论文与写论文的注意事项，流程，心得，等等  
+- 如何编写论文与写论文的注意事项，流程，心得，等等
+
+### 畢業瑣事:
+- 关于畢業的瑣事
 
 ---
 
