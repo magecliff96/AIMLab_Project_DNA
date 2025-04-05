@@ -1,50 +1,65 @@
-2. The Three-Pass Approach
-Rather than reading a paper linearly, use three successive passes:
+# How to Read a Paper — Summary
 
-2.1 The First Pass
+This summary is based on *"How to Read a Paper"* by S. Keshav, which introduces an efficient and practical method for reading academic papers using a **three-pass approach**. It also provides guidance for conducting literature surveys.
 
-Takes 5–10 minutes.
+## 1. The Three-Pass Approach
 
-Goal: Get a general overview.
+Instead of reading a paper linearly, use **three structured passes** to understand the content at increasing levels of depth.
 
-Steps: Read the title, abstract, intro, headings, conclusion, and glance at references.
+### 1.1 First Pass – Quick Overview (5–10 minutes)
+- Read the **title**, **abstract**, and **introduction**
+- Read **section and subsection headings**
+- Read the **conclusion**
+- Glance over the **references**
 
-Outcome: Answer the “Five Cs” — Category, Context, Correctness, Contributions, Clarity.
+This helps you answer the **Five Cs**:
+1. **Category** – Type of paper (e.g., measurement, analysis, prototype)
+2. **Context** – Related work and theoretical basis
+3. **Correctness** – Are the assumptions valid?
+4. **Contributions** – What does the paper offer?
+5. **Clarity** – Is it well-written?
 
-Helps decide whether to read further or skip.
+Use this pass to decide whether to continue reading.
 
-2.2 The Second Pass
+### 1.2 Second Pass – Understanding the Content (≤ 1 hour)
+- Read more carefully, **ignore proofs or fine details**
+- Examine **figures and graphs** critically
+- **Mark important references** to explore later
+- Take notes or annotate
 
-Takes up to an hour.
+You should now be able to explain the main ideas and evidence to someone else.
 
-Goal: Understand main content (but not full detail).
+### 1.3 Third Pass – Deep Understanding (1–5 hours)
+- **Mentally re-implement** the paper
+- Question every **assumption and technique**
+- Consider how you would present the ideas
+- Take note of **limitations**, **missing references**, or **unexplained steps**
 
-Focus: Examine figures, mark unread references, make notes.
+You should be able to **reconstruct the paper’s structure**, and assess strengths and weaknesses thoroughly.
 
-Enables you to explain the paper’s core ideas to someone else.
+---
 
-Useful for papers outside your field but still of interest.
+## 2. Doing a Literature Survey
 
-2.3 The Third Pass
+To survey literature in a new field:
 
-Takes 1–5 hours.
+1. **Search with keywords** on Google Scholar or CiteSeer
+2. Perform **first-pass reads** on a few recent papers
+3. Check their **related work** sections
+4. Identify **shared citations and authors**
+5. Explore **top conferences** and browse recent proceedings
+6. Make **second and third passes** through key papers
+7. Iterate until you have a comprehensive view of the field
 
-Goal: In-depth understanding by trying to mentally re-implement the work.
+---
 
-Method: Challenge assumptions, reconstruct logic, compare with your own approach.
+## 5. Related Work
 
-Useful for reviewers or if you want to deeply integrate the paper’s ideas.
+Additional resources:
+- [Timothy Roscoe – Writing Reviews for Systems Conferences](http://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
+- [Henning Schulzrinne – Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html)
+- [George Whitesides – Writing a Paper](http://www.che.iitm.ac.in/misc/dd/writepaper.pdf)
+- [Simon Peyton Jones – Research Skills](http://research.microsoft.com/~simonpj/papers/giving-a-talk/giving-a-talk.htm)
 
-3. Doing a Literature Survey
-
-Applies the three-pass method to conduct a systematic literature survey:
-
-Start with search engines, read 1-pass of a few relevant papers.
-
-Trace citations and key authors to identify important work.
-
-Explore top conferences to find more papers.
-
-Iterate through 2-pass and 3-pass reads to deepen your understanding and identify missing works.
 
 
