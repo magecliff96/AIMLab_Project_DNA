@@ -31,8 +31,8 @@ You should now be able to explain the main ideas and evidence to someone else.
 
 ### 1.3 Third Pass – Deep Understanding (1–5 hours)
 - **Mentally re-implement** the paper
-- Question every **assumption and technique**
-- Consider how you would present the ideas
+- Question every **assumption, techniques, and details**
+- Consider how you would present the ideas and decribe the details
 - Take note of **limitations**, **missing references**, or **unexplained steps**
 
 You should be able to **reconstruct the paper’s structure**, and assess strengths and weaknesses thoroughly.
